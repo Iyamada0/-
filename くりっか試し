@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html lang="jp">
+    <head>
+        <meta charset="uft-8">
+        <title>クラッカどんな？</title>
+        <link rel="stylesheet" href="clacker2.css">
+    </head>
+    <body>
+        <div id="game">
+            
+            <div id="main">
+
+                <div class="gameMain">
+
+                    <img src="clacker.png">
+
+                    <div class="info">
+                        <nav class="navigation">
+                            <ul>
+                                <li><span>強化</span></li>
+                                <li><span>装備</span></li>
+                                <li>ステータス</li>
+                                <li><span>設定</span></li>
+                            </ul>
+                        </nav>
+
+                        <div class="divideLine"></div>
+                    
+                        <h3>強化一覧</h3>
+
+                        <div class="infoMain">
+
+                            <div id="buffOne">
+                                <p>クリック時獲得強化</p>
+                                <button id="buffOneAdd">強化</button>
+                            </div>
+                        
+                        </div>
+
+                   
+                    </div>
+                </div>
+
+            </div>
+            
+        </div>
+    </body>
+</html>
